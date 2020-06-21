@@ -3,11 +3,26 @@
     <footer id="footer" class="footer bg-gray-200" role="contentinfo">
       <div class="footer-inner container m-auto md:flex justify-between items-center px-6 py-10">
         <p class="text-purple-900 pb-8 md:pb-0">
-          © 2019 Skeleventy: A starter template built with
-          <a
-            href="https://www.gridsome.org"
-          >Gridsome.</a> - Template powered by
-          <a href="https://github.com/josephdyer" target="_blank">Joseph Dyer</a>
+          © 2020 Ashoka Economics Society | 
+          <span class="text-gray-600">
+            Made with <span class="hover:text-red-500">&hearts;</span> by
+            <a
+              href="https://github.com/DeeprajPandey"
+              class="text-gray-600 hover:text-pink-500"
+              aria-label="GithubLink"
+              target="_blank"
+            >
+            Deepraj Pandey.
+            </a>
+            Template by
+            <a
+              href="https://github.com/josephdyer"
+              class="text-gray-600 hover:text-purple-900"
+              target="_blank"
+            >
+            Joseph Dyer
+            </a>
+          </span>
         </p>
 
         <ul class="flex justify-center">
